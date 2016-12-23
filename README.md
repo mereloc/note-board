@@ -1,5 +1,5 @@
 # note-board
-A simple web page for learning. Stick your ideas on the note board and bin them when your done.
+A simple web page for learning. Stick your ideas on the note board and bin them when you're done.
 
 ## Goals
 * Provide a simple project for beginner web devs to get stuck into
